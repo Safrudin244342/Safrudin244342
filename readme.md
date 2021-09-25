@@ -15,8 +15,8 @@
 
 ## 2. Project in Progress
 - [LoveMeter](https://github.com/LoveMeter)
-    - [x]Create Web UI
-    - [ ]Create Rest Api
+    - [x] Create Web UI
+    - [ ] Create Rest Api
 
 ## 3. Github Profile
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=safrudin244342&theme=dark)
