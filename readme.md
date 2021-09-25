@@ -10,8 +10,9 @@
 
 ## 1. Completed Project
 - [Nodejs Rest Api template](https://github.com/udin-template/nodejs-restfulapi)
-- [AngkringanHits API](https://github.com/Safrudin244342/angkringanhits-api)
-- [AngkringanHits Webui](https://github.com/Safrudin244342/angkringanhits-production)
+- AngkringanHits
+    - [AngkringanHits API](https://github.com/Safrudin244342/angkringanhits-api)
+    - [AngkringanHits Webui](https://github.com/Safrudin244342/angkringanhits-production)
 
 ## 2. Project in Progress
 - [LoveMeter](https://github.com/LoveMeter)
@@ -19,4 +20,7 @@
     - [ ] Create Rest Api
 
 ## 3. Github Profile
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=safrudin244342&theme=dark)
+![Top Language](https://github-readme-stats.vercel.app/api?username=safrudin244342&theme=dark)
+
+
+@github/safrudin-tmp My Secound Account
