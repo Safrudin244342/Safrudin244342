@@ -9,10 +9,11 @@
 # Hi 👋, I'm Safrudin
 
 ## 1. Completed Project
-- [Nodejs Rest Api template](https://github.com/udin-template/nodejs-restfulapi)
+- [Nodejs Rest Api template (Backend)](https://github.com/udin-template/nodejs-restfulapi)
 - AngkringanHits
     - [AngkringanHits API](https://github.com/Safrudin244342/angkringanhits-api)
     - [AngkringanHits Webui](https://github.com/Safrudin244342/angkringanhits-production)
+- [Lucky Wheel (Android APP)](https://github.com/Safrudin244342/Lucky-Wheel.git)
 
 ## 2. Project in Progress
 - [LoveMeter](https://github.com/LoveMeter)
